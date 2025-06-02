@@ -1,0 +1,552 @@
+Your card: 
+(C) 1988-2010, Advanced Micro Devices, Inc. OLAND 01.00
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0103: 800*600*8 Packed-pixel
+0105: 1024*768*8 Packed-pixel
+0107: 1280*1024*8 Packed-pixel
+0110: 640*480*16 Direct-colour, 15S/16T
+0111: 640*480*16 Direct-colour, 16S/16T
+0113: 800*600*16 Direct-colour, 15S/16T
+0114: 800*600*16 Direct-colour, 16S/16T
+0116: 1024*768*16 Direct-colour, 15S/16T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0119: 1280*1024*16 Direct-colour, 15S/16T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+0163: 1280*960*8 Packed-pixel
+0165: 1280*960*16 Direct-colour, 16S/16T
+0166: 1280*960*32 Direct-colour, 24S/32T
+0121: 640*480*32 Direct-colour, 24S/32T
+0122: 800*600*32 Direct-colour, 24S/32T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+0143: 1400*1050*8 Packed-pixel
+0145: 1400*1050*16 Direct-colour, 16S/16T
+0146: 1400*1050*32 Direct-colour, 24S/32T
+0173: 1600*1200*8 Packed-pixel
+0175: 1600*1200*16 Direct-colour, 16S/16T
+0176: 1600*1200*32 Direct-colour, 24S/32T
+01D1: 1920*1200*8 Packed-pixel
+01D2: 1920*1200*16 Direct-colour, 16S/16T
+01D4: 1920*1200*32 Direct-colour, 24S/32T
+Your card: 
+ATI Technologies Inc. V380 01.00
+
+Available modes:
+006A: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0102: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0104: 1024*768*4 EGA-type (NG for VBESVGA.DRV)
+0182: 320*200*8 Packed-pixel
+010D: 320*200*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*24 Direct-colour, 24S/24T
+0120: 320*200*32 Direct-colour, 24S/32T
+0192: 320*240*8 Packed-pixel
+0193: 320*240*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0194: 320*240*16 Direct-colour, 16S/16T
+0195: 320*240*24 Direct-colour, 24S/24T
+0196: 320*240*32 Direct-colour, 24S/32T
+01A2: 400*300*8 Packed-pixel
+01A3: 400*300*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01A4: 400*300*16 Direct-colour, 16S/16T
+01A5: 400*300*24 Direct-colour, 24S/24T
+01A6: 400*300*32 Direct-colour, 24S/32T
+01B2: 512*384*8 Packed-pixel
+01B3: 512*384*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01B4: 512*384*16 Direct-colour, 16S/16T
+01B5: 512*384*24 Direct-colour, 24S/24T
+01B6: 512*384*32 Direct-colour, 24S/32T
+01C2: 640*350*8 Packed-pixel
+01C3: 640*350*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01C4: 640*350*16 Direct-colour, 16S/16T
+01C5: 640*350*24 Direct-colour, 24S/24T
+01C6: 640*350*32 Direct-colour, 24S/32T
+0100: 640*400*8 Packed-pixel
+0183: 640*400*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0184: 640*400*16 Direct-colour, 16S/16T
+0185: 640*400*24 Direct-colour, 24S/24T
+0186: 640*400*32 Direct-colour, 24S/32T
+0101: 640*480*8 Packed-pixel
+0110: 640*480*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*24 Direct-colour, 24S/24T
+0121: 640*480*32 Direct-colour, 24S/32T
+0103: 800*600*8 Packed-pixel
+0113: 800*600*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*24 Direct-colour, 24S/24T
+0122: 800*600*32 Direct-colour, 24S/32T
+0105: 1024*768*8 Packed-pixel
+0116: 1024*768*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*24 Direct-colour, 24S/24T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0107: 1280*1024*8 Packed-pixel
+0119: 1280*1024*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*24 Direct-colour, 24S/24T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+Your card: 
+ATI Technologies Inc. V380 01.00
+
+Available modes:
+006A: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0102: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0104: 1024*768*4 EGA-type (NG for VBESVGA.DRV)
+0182: 320*200*8 Packed-pixel
+010D: 320*200*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*24 Direct-colour, 24S/24T
+0120: 320*200*32 Direct-colour, 24S/32T
+0192: 320*240*8 Packed-pixel
+0193: 320*240*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0194: 320*240*16 Direct-colour, 16S/16T
+0195: 320*240*24 Direct-colour, 24S/24T
+0196: 320*240*32 Direct-colour, 24S/32T
+01A2: 400*300*8 Packed-pixel
+01A3: 400*300*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01A4: 400*300*16 Direct-colour, 16S/16T
+01A5: 400*300*24 Direct-colour, 24S/24T
+01A6: 400*300*32 Direct-colour, 24S/32T
+01B2: 512*384*8 Packed-pixel
+01B3: 512*384*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01B4: 512*384*16 Direct-colour, 16S/16T
+01B5: 512*384*24 Direct-colour, 24S/24T
+01B6: 512*384*32 Direct-colour, 24S/32T
+01C2: 640*350*8 Packed-pixel
+01C3: 640*350*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01C4: 640*350*16 Direct-colour, 16S/16T
+01C5: 640*350*24 Direct-colour, 24S/24T
+01C6: 640*350*32 Direct-colour, 24S/32T
+0100: 640*400*8 Packed-pixel
+0183: 640*400*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0184: 640*400*16 Direct-colour, 16S/16T
+0185: 640*400*24 Direct-colour, 24S/24T
+0186: 640*400*32 Direct-colour, 24S/32T
+0101: 640*480*8 Packed-pixel
+0110: 640*480*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*24 Direct-colour, 24S/24T
+0121: 640*480*32 Direct-colour, 24S/32T
+0103: 800*600*8 Packed-pixel
+0113: 800*600*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*24 Direct-colour, 24S/24T
+0122: 800*600*32 Direct-colour, 24S/32T
+0105: 1024*768*8 Packed-pixel
+0116: 1024*768*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*24 Direct-colour, 24S/24T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0107: 1280*1024*8 Packed-pixel
+0119: 1280*1024*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*24 Direct-colour, 24S/24T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+Your card: 
+ATI Technologies Inc. V380 01.00
+
+Available modes:
+006A: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0102: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0104: 1024*768*4 EGA-type (NG for VBESVGA.DRV)
+0182: 320*200*8 Packed-pixel
+010D: 320*200*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*24 Direct-colour, 24S/24T
+0120: 320*200*32 Direct-colour, 24S/32T
+0192: 320*240*8 Packed-pixel
+0193: 320*240*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0194: 320*240*16 Direct-colour, 16S/16T
+0195: 320*240*24 Direct-colour, 24S/24T
+0196: 320*240*32 Direct-colour, 24S/32T
+01A2: 400*300*8 Packed-pixel
+01A3: 400*300*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01A4: 400*300*16 Direct-colour, 16S/16T
+01A5: 400*300*24 Direct-colour, 24S/24T
+01A6: 400*300*32 Direct-colour, 24S/32T
+01B2: 512*384*8 Packed-pixel
+01B3: 512*384*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01B4: 512*384*16 Direct-colour, 16S/16T
+01B5: 512*384*24 Direct-colour, 24S/24T
+01B6: 512*384*32 Direct-colour, 24S/32T
+01C2: 640*350*8 Packed-pixel
+01C3: 640*350*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+01C4: 640*350*16 Direct-colour, 16S/16T
+01C5: 640*350*24 Direct-colour, 24S/24T
+01C6: 640*350*32 Direct-colour, 24S/32T
+0100: 640*400*8 Packed-pixel
+0183: 640*400*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0184: 640*400*16 Direct-colour, 16S/16T
+0185: 640*400*24 Direct-colour, 24S/24T
+0186: 640*400*32 Direct-colour, 24S/32T
+0101: 640*480*8 Packed-pixel
+0110: 640*480*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*24 Direct-colour, 24S/24T
+0121: 640*480*32 Direct-colour, 24S/32T
+0103: 800*600*8 Packed-pixel
+0113: 800*600*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*24 Direct-colour, 24S/24T
+0122: 800*600*32 Direct-colour, 24S/32T
+0105: 1024*768*8 Packed-pixel
+0116: 1024*768*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*24 Direct-colour, 24S/24T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0107: 1280*1024*8 Packed-pixel
+0119: 1280*1024*15 Direct-colour, 15S/15T (not byte-aligned => NG for VBESVGA.DRV)
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*24 Direct-colour, 24S/24T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+Your card: 
+(C) 1988-2005, ATI Technologies Inc.  RV410 01.00
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0103: 800*600*8 Packed-pixel
+0105: 1024*768*8 Packed-pixel
+0107: 1280*1024*8 Packed-pixel
+0110: 640*480*16 Direct-colour, 15S/16T
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*32 Direct-colour, 24S/32T
+0113: 800*600*16 Direct-colour, 15S/16T
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*32 Direct-colour, 24S/32T
+0116: 1024*768*16 Direct-colour, 15S/16T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*32 Direct-colour, 24S/32T
+0119: 1280*1024*16 Direct-colour, 15S/16T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*32 Direct-colour, 24S/32T
+010D: 320*200*16 Direct-colour, 15S/16T
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*32 Direct-colour, 24S/32T
+0120: 320*200*32 Direct-colour, 24S/32T
+0193: 320*240*8 Packed-pixel
+0194: 320*240*16 Direct-colour, 15S/16T
+0195: 320*240*16 Direct-colour, 16S/16T
+0196: 320*240*32 Direct-colour, 24S/32T
+01B3: 512*384*8 Packed-pixel
+01B4: 512*384*16 Direct-colour, 15S/16T
+01B5: 512*384*16 Direct-colour, 16S/16T
+01B6: 512*384*32 Direct-colour, 24S/32T
+01C3: 640*350*8 Packed-pixel
+01C4: 640*350*16 Direct-colour, 15S/16T
+01C5: 640*350*16 Direct-colour, 16S/16T
+01C6: 640*350*32 Direct-colour, 24S/32T
+0183: 640*400*8 Packed-pixel
+0184: 640*400*16 Direct-colour, 15S/16T
+0185: 640*400*16 Direct-colour, 16S/16T
+0186: 640*400*32 Direct-colour, 24S/32T
+0133: 720*400*8 Packed-pixel
+0134: 720*400*16 Direct-colour, 15S/16T
+0135: 720*400*16 Direct-colour, 16S/16T
+0136: 720*400*32 Direct-colour, 24S/32T
+0153: 1152*864*8 Packed-pixel
+0154: 1152*864*16 Direct-colour, 15S/16T
+0155: 1152*864*16 Direct-colour, 16S/16T
+0156: 1152*864*32 Direct-colour, 24S/32T
+0163: 1280*1024*8 Packed-pixel
+0164: 1280*1024*16 Direct-colour, 15S/16T
+0165: 1280*1024*16 Direct-colour, 16S/16T
+0166: 1280*1024*32 Direct-colour, 24S/32T
+0121: 640*480*32 Direct-colour, 24S/32T
+0122: 800*600*32 Direct-colour, 24S/32T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+0143: 1400*1050*8 Packed-pixel
+0144: 1400*1050*16 Direct-colour, 15S/16T
+0145: 1400*1050*16 Direct-colour, 16S/16T
+0146: 1400*1050*32 Direct-colour, 24S/32T
+0173: 1600*1200*8 Packed-pixel
+0174: 1600*1200*16 Direct-colour, 15S/16T
+0175: 1600*1200*16 Direct-colour, 16S/16T
+0176: 1600*1200*32 Direct-colour, 24S/32T
+0183: 640*400*8 Packed-pixel
+0184: 640*400*16 Direct-colour, 15S/16T
+0185: 640*400*16 Direct-colour, 16S/16T
+0186: 640*400*32 Direct-colour, 24S/32T
+01D3: 1856*1392*8 Packed-pixel
+01D4: 1856*1392*16 Direct-colour, 15S/16T
+01D5: 1856*1392*16 Direct-colour, 16S/16T
+01D6: 1856*1392*32 Direct-colour, 24S/32T
+01E3: 1920*1440*8 Packed-pixel
+01E4: 1920*1440*16 Direct-colour, 15S/16T
+01E5: 1920*1440*16 Direct-colour, 16S/16T
+01E6: 1920*1440*32 Direct-colour, 24S/32T
+Your card: 
+(C) 1988-2005, ATI Technologies Inc.  RV410 01.00
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0103: 800*600*8 Packed-pixel
+0105: 1024*768*8 Packed-pixel
+0107: 1280*1024*8 Packed-pixel
+0110: 640*480*16 Direct-colour, 15S/16T
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*32 Direct-colour, 24S/32T
+0113: 800*600*16 Direct-colour, 15S/16T
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*32 Direct-colour, 24S/32T
+0116: 1024*768*16 Direct-colour, 15S/16T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*32 Direct-colour, 24S/32T
+0119: 1280*1024*16 Direct-colour, 15S/16T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*32 Direct-colour, 24S/32T
+010D: 320*200*16 Direct-colour, 15S/16T
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*32 Direct-colour, 24S/32T
+0120: 320*200*32 Direct-colour, 24S/32T
+0193: 320*240*8 Packed-pixel
+0194: 320*240*16 Direct-colour, 15S/16T
+0195: 320*240*16 Direct-colour, 16S/16T
+0196: 320*240*32 Direct-colour, 24S/32T
+01B3: 512*384*8 Packed-pixel
+01B4: 512*384*16 Direct-colour, 15S/16T
+01B5: 512*384*16 Direct-colour, 16S/16T
+01B6: 512*384*32 Direct-colour, 24S/32T
+01C3: 640*350*8 Packed-pixel
+01C4: 640*350*16 Direct-colour, 15S/16T
+01C5: 640*350*16 Direct-colour, 16S/16T
+01C6: 640*350*32 Direct-colour, 24S/32T
+0183: 640*400*8 Packed-pixel
+0184: 640*400*16 Direct-colour, 15S/16T
+0185: 640*400*16 Direct-colour, 16S/16T
+0186: 640*400*32 Direct-colour, 24S/32T
+0133: 720*400*8 Packed-pixel
+0134: 720*400*16 Direct-colour, 15S/16T
+0135: 720*400*16 Direct-colour, 16S/16T
+0136: 720*400*32 Direct-colour, 24S/32T
+0153: 1152*864*8 Packed-pixel
+0154: 1152*864*16 Direct-colour, 15S/16T
+0155: 1152*864*16 Direct-colour, 16S/16T
+0156: 1152*864*32 Direct-colour, 24S/32T
+0163: 1280*1024*8 Packed-pixel
+0164: 1280*1024*16 Direct-colour, 15S/16T
+0165: 1280*1024*16 Direct-colour, 16S/16T
+0166: 1280*1024*32 Direct-colour, 24S/32T
+0121: 640*480*32 Direct-colour, 24S/32T
+0122: 800*600*32 Direct-colour, 24S/32T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+0143: 1400*1050*8 Packed-pixel
+0144: 1400*1050*16 Direct-colour, 15S/16T
+0145: 1400*1050*16 Direct-colour, 16S/16T
+0146: 1400*1050*32 Direct-colour, 24S/32T
+0173: 1600*1200*8 Packed-pixel
+0174: 1600*1200*16 Direct-colour, 15S/16T
+0175: 1600*1200*16 Direct-colour, 16S/16T
+0176: 1600*1200*32 Direct-colour, 24S/32T
+0183: 640*400*8 Packed-pixel
+0184: 640*400*16 Direct-colour, 15S/16T
+0185: 640*400*16 Direct-colour, 16S/16T
+0186: 640*400*32 Direct-colour, 24S/32T
+01D3: 1856*1392*8 Packed-pixel
+01D4: 1856*1392*16 Direct-colour, 15S/16T
+01D5: 1856*1392*16 Direct-colour, 16S/16T
+01D6: 1856*1392*32 Direct-colour, 24S/32T
+01E3: 1920*1440*8 Packed-pixel
+01E4: 1920*1440*16 Direct-colour, 15S/16T
+01E5: 1920*1440*16 Direct-colour, 16S/16T
+01E6: 1920*1440*32 Direct-colour, 24S/32T
+Your card: 
+NVIDIA Corporation G72 Board - p280h18  Chip Rev   
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0102: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0103: 800*600*8 Packed-pixel
+0104: 1024*768*4 EGA-type (NG for VBESVGA.DRV)
+0105: 1024*768*8 Packed-pixel
+0106: 1280*1024*4 EGA-type (NG for VBESVGA.DRV)
+0107: 1280*1024*8 Packed-pixel
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*32 Direct-colour, 24S/32T
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*32 Direct-colour, 24S/32T
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*32 Direct-colour, 24S/32T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*32 Direct-colour, 24S/32T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*32 Direct-colour, 24S/32T
+0130: 320*200*8 Packed-pixel
+0131: 320*400*8 Packed-pixel
+0132: 320*400*16 Direct-colour, 16S/16T
+0133: 320*400*32 Direct-colour, 24S/32T
+0134: 320*240*8 Packed-pixel
+0135: 320*240*16 Direct-colour, 16S/16T
+0136: 320*240*32 Direct-colour, 24S/32T
+013D: 640*400*16 Direct-colour, 16S/16T
+013E: 640*400*32 Direct-colour, 24S/32T
+0145: 1600*1200*8 Packed-pixel
+0146: 1600*1200*16 Direct-colour, 16S/16T
+0147: 1400*1050*8 Packed-pixel
+0148: 1400*1050*16 Direct-colour, 16S/16T
+0152: 2048*1536*32 Direct-colour, 24S/32T
+Your card: 
+NVIDIA Corporation GT218 Board - 08730000 Chip Rev   
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0102: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0103: 800*600*8 Packed-pixel
+0104: 1024*768*4 EGA-type (NG for VBESVGA.DRV)
+0105: 1024*768*8 Packed-pixel
+0106: 1280*1024*4 EGA-type (NG for VBESVGA.DRV)
+0107: 1280*1024*8 Packed-pixel
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*32 Direct-colour, 24S/32T
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*32 Direct-colour, 24S/32T
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*32 Direct-colour, 24S/32T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*32 Direct-colour, 24S/32T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*32 Direct-colour, 24S/32T
+0130: 320*200*8 Packed-pixel
+0131: 320*400*8 Packed-pixel
+0132: 320*400*16 Direct-colour, 16S/16T
+0133: 320*400*32 Direct-colour, 24S/32T
+0134: 320*240*8 Packed-pixel
+0135: 320*240*16 Direct-colour, 16S/16T
+0136: 320*240*32 Direct-colour, 24S/32T
+013D: 640*400*16 Direct-colour, 16S/16T
+013E: 640*400*32 Direct-colour, 24S/32T
+0145: 1600*1200*8 Packed-pixel
+0146: 1600*1200*16 Direct-colour, 16S/16T
+014A: 1600*1200*32 Direct-colour, 24S/32T
+Your card: 
+NVIDIA Corporation GT218 Board - 08730000 Chip Rev   
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0102: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0103: 800*600*8 Packed-pixel
+0104: 1024*768*4 EGA-type (NG for VBESVGA.DRV)
+0105: 1024*768*8 Packed-pixel
+0106: 1280*1024*4 EGA-type (NG for VBESVGA.DRV)
+0107: 1280*1024*8 Packed-pixel
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*32 Direct-colour, 24S/32T
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*32 Direct-colour, 24S/32T
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*32 Direct-colour, 24S/32T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*32 Direct-colour, 24S/32T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*32 Direct-colour, 24S/32T
+0130: 320*200*8 Packed-pixel
+0131: 320*400*8 Packed-pixel
+0132: 320*400*16 Direct-colour, 16S/16T
+0133: 320*400*32 Direct-colour, 24S/32T
+0134: 320*240*8 Packed-pixel
+0135: 320*240*16 Direct-colour, 16S/16T
+0136: 320*240*32 Direct-colour, 24S/32T
+013D: 640*400*16 Direct-colour, 16S/16T
+013E: 640*400*32 Direct-colour, 24S/32T
+0145: 1600*1200*8 Packed-pixel
+0146: 1600*1200*16 Direct-colour, 16S/16T
+014A: 1600*1200*32 Direct-colour, 24S/32T
+Your card: 
+(C) 1988-2010, AMD Technologies Inc.  FGL TURKS 01.00
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0103: 800*600*8 Packed-pixel
+0105: 1024*768*8 Packed-pixel
+0107: 1280*1024*8 Packed-pixel
+0110: 640*480*16 Direct-colour, 15S/16T
+0111: 640*480*16 Direct-colour, 16S/16T
+0113: 800*600*16 Direct-colour, 15S/16T
+0114: 800*600*16 Direct-colour, 16S/16T
+0116: 1024*768*16 Direct-colour, 15S/16T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0119: 1280*1024*16 Direct-colour, 15S/16T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+010D: 320*200*16 Direct-colour, 15S/16T
+010E: 320*200*16 Direct-colour, 16S/16T
+0120: 320*200*32 Direct-colour, 24S/32T
+0193: 320*240*8 Packed-pixel
+0195: 320*240*16 Direct-colour, 16S/16T
+0196: 320*240*32 Direct-colour, 24S/32T
+01B3: 512*384*8 Packed-pixel
+01B5: 512*384*16 Direct-colour, 16S/16T
+01B6: 512*384*32 Direct-colour, 24S/32T
+01C3: 640*350*8 Packed-pixel
+01C5: 640*350*16 Direct-colour, 16S/16T
+01C6: 640*350*32 Direct-colour, 24S/32T
+0133: 720*400*8 Packed-pixel
+0135: 720*400*16 Direct-colour, 16S/16T
+0136: 720*400*32 Direct-colour, 24S/32T
+0153: 1152*864*8 Packed-pixel
+0155: 1152*864*16 Direct-colour, 16S/16T
+0156: 1152*864*32 Direct-colour, 24S/32T
+0163: 1280*960*8 Packed-pixel
+0165: 1280*960*16 Direct-colour, 16S/16T
+0166: 1280*960*32 Direct-colour, 24S/32T
+0121: 640*480*32 Direct-colour, 24S/32T
+0122: 800*600*32 Direct-colour, 24S/32T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+0143: 1400*1050*8 Packed-pixel
+0145: 1400*1050*16 Direct-colour, 16S/16T
+0146: 1400*1050*32 Direct-colour, 24S/32T
+0173: 1600*1200*8 Packed-pixel
+0175: 1600*1200*16 Direct-colour, 16S/16T
+0176: 1600*1200*32 Direct-colour, 24S/32T
+0183: 1792*1344*8 Packed-pixel
+0185: 1792*1344*16 Direct-colour, 16S/16T
+0186: 1792*1344*32 Direct-colour, 24S/32T
+01D3: 1856*1392*8 Packed-pixel
+01D5: 1856*1392*16 Direct-colour, 16S/16T
+01D6: 1856*1392*32 Direct-colour, 24S/32T
+01E3: 1920*1440*8 Packed-pixel
+01E5: 1920*1440*16 Direct-colour, 16S/16T
+01E6: 1920*1440*32 Direct-colour, 24S/32T
+Your card: 
+(C) 1988-2010, Advanced Micro Devices, Inc. OLAND 01.00
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0103: 800*600*8 Packed-pixel
+0105: 1024*768*8 Packed-pixel
+0107: 1280*1024*8 Packed-pixel
+0110: 640*480*16 Direct-colour, 15S/16T
+0111: 640*480*16 Direct-colour, 16S/16T
+0113: 800*600*16 Direct-colour, 15S/16T
+0114: 800*600*16 Direct-colour, 16S/16T
+0116: 1024*768*16 Direct-colour, 15S/16T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0119: 1280*1024*16 Direct-colour, 15S/16T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+0163: 1280*960*8 Packed-pixel
+0165: 1280*960*16 Direct-colour, 16S/16T
+0166: 1280*960*32 Direct-colour, 24S/32T
+0121: 640*480*32 Direct-colour, 24S/32T
+0122: 800*600*32 Direct-colour, 24S/32T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+0143: 1400*1050*8 Packed-pixel
+0145: 1400*1050*16 Direct-colour, 16S/16T
+0146: 1400*1050*32 Direct-colour, 24S/32T
+0173: 1600*1200*8 Packed-pixel
+0175: 1600*1200*16 Direct-colour, 16S/16T
+0176: 1600*1200*32 Direct-colour, 24S/32T
+01D1: 1920*1200*8 Packed-pixel
+01D2: 1920*1200*16 Direct-colour, 16S/16T
+01D4: 1920*1200*32 Direct-colour, 24S/32T
