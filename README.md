@@ -1,0 +1,1 @@
+# Graphic-video-card-Vesa-VBE-modes-list
