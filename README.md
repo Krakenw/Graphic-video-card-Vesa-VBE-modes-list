@@ -16,7 +16,7 @@ As an example, the only video card that I've found so far to support 1920x1200x2
 
 A card that supports a given resolution under it's own proprietary windows or Linux driver will not necessarily offer the same resolution under VBE. The higher the resolution and the older the card, the more unlikely this becomes.
 
-Many video cards can read information supplied by the video monitor about the screen's video capabilities via electrical signals in the video data lead, vga, dvi, hdmi etc. These electrical signals are referred to as DDC or E-DDC "Enhanced-Display Data Channel" the data supplied has "many names" such as E-EDID "Enhanced Extended Display Identification Data" and can be very confusing. Suffice to say "some cards" will use this information to restrict the list of "offered" VBE resolutions, at least I beleive I've seen this behaviour.
+Many video cards can read information supplied by the video monitor about the screen's video capabilities via electrical signals in the video data lead, vga, dvi, hdmi etc. These electrical signals are referred to as DDC or E-DDC "Enhanced-Display Data Channel" the data supplied has "many names" such as E-EDID "Enhanced Extended Display Identification Data" and can be very confusing. Suffice to say "some cards" will use this information to restrict the list of "offered" VBE resolutions, at least I beleive I've seen this behaviour. Update: My Radeon R5-430 and R7-240 exhibit this behaviour.
 
 EnTech's Monitor Asset Manager (moninfo.exe) can read the Display Data Channel information and display it in a human readable form.
 
