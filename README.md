@@ -1,6 +1,6 @@
 # Graphic-video-card-Vesa-VBE-modes-list
 
-This repository simply contains some plain text lists generated with VIDMODES.COM with a dos batch file, and is in response to the Github project:
+This repository simply contains some plain text lists generated with VIDMODES.COM with a dos batch file, while connected to a iiyama Prolite E2607WS 1920x1200 monitor, and is in response to the Github project:
 
 "Modern Generic SVGA driver for Windows 3.1" by "PluMGMK"
 
