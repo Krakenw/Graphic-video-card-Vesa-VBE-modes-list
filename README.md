@@ -12,7 +12,7 @@ The lists contain the ID strings (often a gpu name) of the tested card and the V
 
 Cross referencing the ID string / GPU name with information on Wikipedia may give you a starting point to finding the name of an actual retail or OEM video card.
 
-As an example, the only video card that I've found so far to support 1920x1200x24/32 under VBE had the ID = "(C) 1988-2010, Advanced Micro Devices, Inc. OLAND 01.00" and this ID string came from a "Dell NMN1D Radeon R5-430 1GB GDDR5 PCIe x16 Low Profile Graphics Card"
+As an example, the only video card that I've found so far to support 1920x1200x24/32 under VBE had the ID = "(C) 1988-2010, Advanced Micro Devices, Inc. OLAND 01.00" and this ID string came from a "Dell NMN1D Radeon R5-430 1GB GDDR5 PCIe x16 Low Profile Graphics Card" Update: More AMD cards tested, note the change of resolutions between the R5-230 and the R7-240 in late 2013. 
 
 A card that supports a given resolution under it's own proprietary windows or Linux driver will not necessarily offer the same resolution under VBE. The higher the resolution and the older the card, the more unlikely this becomes.
 
