@@ -1,0 +1,57 @@
+Your card: 
+(C) 1988-2005, ATI Technologies Inc.  CEDAR 01.00
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0103: 800*600*8 Packed-pixel
+0105: 1024*768*8 Packed-pixel
+0107: 1280*1024*8 Packed-pixel
+0110: 640*480*16 Direct-colour, 15S/16T
+0111: 640*480*16 Direct-colour, 16S/16T
+0113: 800*600*16 Direct-colour, 15S/16T
+0114: 800*600*16 Direct-colour, 16S/16T
+0116: 1024*768*16 Direct-colour, 15S/16T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0119: 1280*1024*16 Direct-colour, 15S/16T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+010D: 320*200*16 Direct-colour, 15S/16T
+010E: 320*200*16 Direct-colour, 16S/16T
+0120: 320*200*32 Direct-colour, 24S/32T
+0193: 320*240*8 Packed-pixel
+0195: 320*240*16 Direct-colour, 16S/16T
+0196: 320*240*32 Direct-colour, 24S/32T
+01B3: 512*384*8 Packed-pixel
+01B5: 512*384*16 Direct-colour, 16S/16T
+01B6: 512*384*32 Direct-colour, 24S/32T
+01C3: 640*350*8 Packed-pixel
+01C5: 640*350*16 Direct-colour, 16S/16T
+01C6: 640*350*32 Direct-colour, 24S/32T
+0133: 720*400*8 Packed-pixel
+0135: 720*400*16 Direct-colour, 16S/16T
+0136: 720*400*32 Direct-colour, 24S/32T
+0153: 1152*864*8 Packed-pixel
+0155: 1152*864*16 Direct-colour, 16S/16T
+0156: 1152*864*32 Direct-colour, 24S/32T
+0163: 1280*960*8 Packed-pixel
+0165: 1280*960*16 Direct-colour, 16S/16T
+0166: 1280*960*32 Direct-colour, 24S/32T
+0121: 640*480*32 Direct-colour, 24S/32T
+0122: 800*600*32 Direct-colour, 24S/32T
+0123: 1024*768*32 Direct-colour, 24S/32T
+0124: 1280*1024*32 Direct-colour, 24S/32T
+0143: 1400*1050*8 Packed-pixel
+0145: 1400*1050*16 Direct-colour, 16S/16T
+0146: 1400*1050*32 Direct-colour, 24S/32T
+0173: 1600*1200*8 Packed-pixel
+0175: 1600*1200*16 Direct-colour, 16S/16T
+0176: 1600*1200*32 Direct-colour, 24S/32T
+0183: 1792*1344*8 Packed-pixel
+0185: 1792*1344*16 Direct-colour, 16S/16T
+0186: 1792*1344*32 Direct-colour, 24S/32T
+01D3: 1856*1392*8 Packed-pixel
+01D5: 1856*1392*16 Direct-colour, 16S/16T
+01D6: 1856*1392*32 Direct-colour, 24S/32T
+01E3: 1920*1440*8 Packed-pixel
+01E5: 1920*1440*16 Direct-colour, 16S/16T
+01E6: 1920*1440*32 Direct-colour, 24S/32T

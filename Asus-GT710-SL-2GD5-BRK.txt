@@ -1,0 +1,34 @@
+Your card: 
+NVIDIA Corporation GK208 Board - 2131_0012_302 Chip Rev   
+
+Available modes:
+0100: 640*400*8 Packed-pixel
+0101: 640*480*8 Packed-pixel
+0102: 800*600*4 EGA-type (NG for VBESVGA.DRV)
+0103: 800*600*8 Packed-pixel
+0104: 1024*768*4 EGA-type (NG for VBESVGA.DRV)
+0105: 1024*768*8 Packed-pixel
+0106: 1280*1024*4 EGA-type (NG for VBESVGA.DRV)
+0107: 1280*1024*8 Packed-pixel
+010E: 320*200*16 Direct-colour, 16S/16T
+010F: 320*200*32 Direct-colour, 24S/32T
+0111: 640*480*16 Direct-colour, 16S/16T
+0112: 640*480*32 Direct-colour, 24S/32T
+0114: 800*600*16 Direct-colour, 16S/16T
+0115: 800*600*32 Direct-colour, 24S/32T
+0117: 1024*768*16 Direct-colour, 16S/16T
+0118: 1024*768*32 Direct-colour, 24S/32T
+011A: 1280*1024*16 Direct-colour, 16S/16T
+011B: 1280*1024*32 Direct-colour, 24S/32T
+0130: 320*200*8 Packed-pixel
+0131: 320*400*8 Packed-pixel
+0132: 320*400*16 Direct-colour, 16S/16T
+0133: 320*400*32 Direct-colour, 24S/32T
+0134: 320*240*8 Packed-pixel
+0135: 320*240*16 Direct-colour, 16S/16T
+0136: 320*240*32 Direct-colour, 24S/32T
+013D: 640*400*16 Direct-colour, 16S/16T
+013E: 640*400*32 Direct-colour, 24S/32T
+0145: 1600*1200*8 Packed-pixel
+0146: 1600*1200*16 Direct-colour, 16S/16T
+014A: 1600*1200*32 Direct-colour, 24S/32T
